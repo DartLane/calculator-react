@@ -22,7 +22,7 @@ button:nth-last-child(1) {
   color: white;
 }
 
-/* .numPad {
+.numPad {
   margin-top: 3rem;
   margin-bottom: 20px;
   max-width: 180px;
@@ -41,4 +41,4 @@ button:nth-last-child(1) {
 .numPad .row:last-child {
   display: flex;
   justify-content: center;
-} */
+}
