@@ -21,3 +21,24 @@ button:nth-last-child(1) {
   background: tomato;
   color: white;
 }
+
+/* .numPad {
+  margin-top: 3rem;
+  margin-bottom: 20px;
+  max-width: 180px;
+}
+.numPad button {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  background-color: #808080;
+  border: 1px solid #d0d0d0;
+  color: #ffffff
+}
+.numPad button:hover {
+  background-color: #a0a0a0;
+}
+.numPad .row:last-child {
+  display: flex;
+  justify-content: center;
+} */
