@@ -1,6 +1,8 @@
 # calculator-react
 Project for Meta's "React Basics" course to build a simple calculator using React
 
+![App screenshot](./public/app.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
